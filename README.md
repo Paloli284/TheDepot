@@ -9,8 +9,8 @@ Use the latest release:
 https://github.com/Paloli284/TheDepot/releases/latest
 
 Direct installer link:
-https://github.com/Paloli284/TheDepot/releases/download/v0.1.0/TheDepot-Setup-0.1.0-alpha.1.exe
 
+https://github.com/Paloli284/TheDepot/releases/download/v0.1.0-alpha.1/TheDepot-Setup-0.1.0-alpha.1.exe
 
 ## Install
 
