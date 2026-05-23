@@ -1,0 +1,11 @@
+*.exe
+*.zip
+*.msi
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.env
+build/
+dist/
+release/
